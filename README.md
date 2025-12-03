@@ -82,8 +82,10 @@ That will overwrite `requirements.txt` with exact pinned versions; commit the re
 
 Small fixes, documentation improvements, or adding tests are welcome. Open a PR with your changes.
 
-## License and contact
+## License
 
-No license is included by default. Add a `./LICENSE` file if you plan to publish this code.
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+## Contact
 
 Questions or feedback: open an issue in the repository.
