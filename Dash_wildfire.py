@@ -131,4 +131,5 @@ def reg_year_display(region, year):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    # Use `app.run(debug=True)` to start the development server.
+    app.run()
