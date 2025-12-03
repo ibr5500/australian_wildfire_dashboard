@@ -84,6 +84,6 @@ Small fixes, documentation improvements, or adding tests are welcome. Open a PR 
 
 ## License and contact
 
-No license is included by default. Add a `LICENSE` file if you plan to publish this code.
+No license is included by default. Add a `./LICENSE` file if you plan to publish this code.
 
 Questions or feedback: open an issue in the repository.
