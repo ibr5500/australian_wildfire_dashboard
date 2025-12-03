@@ -1,0 +1,13 @@
+
+# Packages you installed (reflected from your terminal commands)
+setuptools
+packaging
+pandas
+dash
+plotly
+httpx==0.20
+
+# Notes:
+# - httpx is pinned to 0.20 per your install command.
+# - If you want exact versions for all packages, run `pip freeze > requirements.txt`
+#   inside your (activated) virtual environment and commit that file.
